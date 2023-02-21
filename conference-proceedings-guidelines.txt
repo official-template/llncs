@@ -1,0 +1,257 @@
+   [1]skip to context
+
+   [2]Springer home
+     * [3]SpringerLink shop
+
+     * [4]Subjects
+     * [1]Services
+     * [5]About Us
+
+Information for Authors of Springer Computer Science Proceedings
+
+   T_authors_280x210.jpg © © tanuha2001 / iStock Below you will find
+   Springer's guidelines and technical instructions for the preparation of
+   contributions to be published in one of the following series or
+   subseries: Lecture Notes in Computer Science (LNCS), Lecture Notes in
+   Artificial Intelligence (LNAI), Lecture Notes in Bioinformatics
+   (LNBI), LNCS Transactions, Lecture Notes in Business Information
+   Processing (LNBIP), Communications in Computer and Information Science
+   (CCIS), Lecture Notes of the Institute for Computer Sciences, Social
+   Informatics and Telecommunications Engineering (LNICST), and IFIP
+   Advances in Information and Communication Technology (IFIP AICT),
+   formerly known as the IFIP Series.
+
+   Authors of computer science proceedings are eligible for a [6]40%
+   discount on any eBook or print book ordered via our webshop.
+
+Important downloads for authors
+
+     * [7]Instructions for proceedings authors (pdf)
+     * [8]Licence to Publish form for LNCS, CCIS or LNBIP ↗
+     * [9]IFIP-AICT Licence to Publish form (also for IFIP volumes in
+       LNCS, LNBIP)
+     * [10]LaTeX2e Proceedings Templates download
+     * [11]Microsoft Word Proceedings Templates
+     * [12]Microsoft Word 2003 Proceedings Templates
+     * [13]Your ORCID identifier ↗
+
+Key Points to Note
+
+   © Springer
+
+   The [14]LaTeX2e Proceedings Templates are available in the scientific
+   authoring platform Overleaf.
+   Access to your published paper
+
+   If the conference organizers opt for 4-week free access to the volume
+   on SpringerLink, then participants are able to access all papers via
+   the conference website during this period (usually around the time of
+   the conference).
+
+   Conference organizers may also purchase printed books and/or USB-sticks
+   containing navigable content for distribution amongst the participants.
+
+   In addition, all authors who have included their email addresses in the
+   headers of their papers will receive an email containing a coded
+   personal access link, which will enable them to download the PDF of
+   their paper directly from SpringerLink.”
+
+   Springer’s policy on content sharing is given on the following page:
+   [15]http://www.springer.com/gp/springernature/landing/content-sharing
+   Inserting your ORCID
+
+   Springer is the first publisher to implement the ORCID identifier for
+   proceedings, ultimately providing authors with a digital identifier
+   that distinguishes them from every other researcher. ORCID (Open
+   Researcher and Contributor ID) hosts a registry of unique researcher
+   identifiers and a transparent method of linking research activities to
+   these identifiers. This is achieved through embedding ORCID identifiers
+   in key workflows, such as research profile maintenance, manuscript
+   submissions, grant applications and patent applications. Apply for an
+   individual ORCID at [16]www.orcid.org and include it in the header of
+   your paper.
+   Publishing Ethics
+
+   If figures, tables, animations or text quotations from copyrighted
+   works (including websites) are included in your paper, permission must
+   be obtained from the copyright holder (usually the original publisher)
+   and the author(s) for both the print and the online format. “Please
+   refer to the [17]Third-party permissions page for more details.”
+
+   Self-plagiarism, duplicate submissions and “salami publishing” are not
+   acceptable. “Kindly refer to the [18]Book Policies page for guidelines
+   on publishing ethics, conflict-on-interest statements, and more.”
+
+   If you wish to extend your Springer Computer Science proceedings paper
+   for publication as a journal article, the following principles must be
+   followed: a) the extended version has to include at least 30% new
+   material; b) it has to cite the original publication and c) it must
+   include an explicit statement about the increment (e.g., new results,
+   better description of materials, etc.).
+   License to Publish Agreement
+
+   Each contribution must be accompanied by a Springer Nature License to
+   Publish agreement. Modified agreements are not acceptable. The
+   corresponding author, who is also marked as such in the header of the
+   paper, must sign the agreement on behalf of all of the authors of a
+   particular paper, having gained their permission to do so. He or she
+   signs and accepts responsibility for releasing the material on behalf
+   of any and all co-authors. The corresponding author must be available
+   to check the paper before it is published. Please note that once a
+   paper has been delivered to Springer, changes relating to the
+   authorship of the paper cannot be made. Authors’ names cannot be added
+   or deleted, their order cannot be changed, and the corresponding author
+   cannot be altered .
+   Information for volume editors
+
+   If you would like to know more about the tasks of the volume editors,
+   please take a look at the [19]information for editors of Springer
+   computer science proceedings.
+
+[20]Lecture Notes in Computer Science
+
+     * [21]LNCS: LNAI & LNBI
+     * [22]LNCS: Transactions
+     * [23]LNCS: Tutorials, State-of-the-Art Surveys, Festschrifts
+     * [24]Societies, Communities & LNCS
+     * [25]Satellite Series
+     * [26]Forthcoming in LNCS, CCIS & LNBIP
+
+Publishing in Springer Computer Proceedings
+
+     * [27]Contact us
+     * [19]Editor information
+     * [1]Author information
+     * [28]Benefits of Publishing
+     * [29]Frequently Asked Questions
+     * [30]Free Online Conference Service (EquinOCS)
+     * [31]Data Publishing in Proceedings
+     * [32]Open Access Publishing for Proceedings
+
+   ORCID image
+
+[33]ORCID for Proceedings
+
+   Authors can now add ORCID to their names in LNCS, CCIS, LNBIP,
+   IFIP-AICT, and LNICST proceedings.
+
+Services
+
+     * [34]Advertisers
+     * [35]Authors & Editors
+     * [36]Booksellers (SpringerNature)
+     * [37]Book Reviewers
+     * [38]Instructors & lecturers (SpringerNature)
+     * [39]Journalists
+     * [40]Librarians (SpringerNature)
+     * [41]Open Access & Springer
+     * [42]Editorial Policies
+     * [43]Rights & Permissions
+     * [44]Societies & Publishing Partners
+     * [45]Subscription Agencies (SpringerNature)
+     * [46]Help & Contact
+
+   Publish with us
+          [35]Authors
+          [47]Journal authors
+          [42]Editorial Policies
+          [41]Open access & Springer
+
+   Discover content
+          [48]SpringerLink
+          [49]Books A - Z
+          [50]Journals A - Z
+          [51]Video
+
+   Other services
+          [38]Instructors & lecturers (SpringerNature)
+          [40]Librarians (SpringerNature)
+          [44]Societies & Publishing Partners
+          [34]Advertisers
+          [52]SpringerLink shop
+
+   About Springer
+          [5]About us
+          [46]Help & Support
+          [53]Contact us
+          [54]Press releases
+          [55]Impressum
+
+     * (BUTTON) Manage cookies / Do not sell my data
+     * [56]Accessibility statement
+     * [57]Privacy policy
+     * [58]California privacy statement (Optional)
+     * [59]Terms and conditions
+     * [46]Help and support
+
+   [60]Springer Nature logo
+
+   © 2023 Springer Nature
+
+   IFRAME:
+   [61]https://www.googletagmanager.com/ns.html?id=&gtm_auth=&gtm_preview=
+   &gtm_cookies_win=x;
+
+References
+
+   1. https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines#main
+   2. https://www.springer.com/
+   3. https://www.springer.com/springerlinkshop
+   4. https://www.springer.com/gp/subjects
+   5. https://www.springer.com/gp/about-springer
+   6. https://www.springer.com/gp/authors-editors/book-authors-editors/getting-book-discounts-for-authors-editors/3346
+   7. https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v10
+   8. https://resource-cms.springernature.com/springer-cms/rest/v1/content/19790018/data/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland
+   9. https://resource-cms.springernature.com/springer-cms/rest/v1/content/23277100/data/v2
+  10. https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6
+  11. https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238706/data/v1
+  12. https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1
+  13. https://www.springernature.com/gp/researchers/orcid
+  14. https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi
+  15. http://www.springer.com/gp/springernature/landing/content-sharing
+  16. http://www.orcid.org/
+  17. https://www.springernature.com/gp/policies/editorial-policies/third-party-permissions
+  18. https://www.springernature.com/gp/policies/book-publishing-policies
+  19. https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings
+  20. https://www.springer.com/gp/computer-science/lncs
+  21. https://www.springer.com/gp/computer-science/lncs/lncs-topical-sublibraries
+  22. https://www.springer.com/gp/computer-science/lncs/lncs-transactions
+  23. https://www.springer.com/gp/computer-science/lncs/tutorials-state-of-the-art-surveys-hot-topics
+  24. https://www.springer.com/gp/computer-science/lncs/societies-and-lncs
+  25. https://www.springer.com/gp/computer-science/lncs/lncs-satellite-series
+  26. https://www.springer.com/gp/computer-science/lncs/forthcoming-proceedings
+  27. https://www.springer.com/gp/computer-science/lncs/conference-proceedings-contacts
+  28. https://www.springer.com/gp/computer-science/lncs/benefits-of-publishing-in-computer-science-proceedings/17813898
+  29. https://www.springer.com/gp/computer-science/lncs/faq
+  30. https://www.springer.com/gp/computer-science/lncs/online-conference-service
+  31. https://www.springer.com/gp/computer-science/lncs/data-publishing-in-computer-proceedings
+  32. https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings
+  33. https://www.springer.com/gp/computer-science/lncs/orcid-for-your-proceedings-paper/12272740
+  34. https://www.springer.com/gp/advertisers
+  35. https://www.springer.com/gp/authors-editors
+  36. https://www.springernature.com/gp/booksellers
+  37. https://www.springer.com/gp/reviewers
+  38. https://www.springernature.com/gp/authors/lecturers
+  39. https://www.springer.com/gp/about-springer/media
+  40. https://www.springernature.com/gp/librarians
+  41. https://www.springer.com/gp/open-access
+  42. https://www.springer.com/gp/editorial-policies
+  43. https://www.springer.com/gp/rights-permissions
+  44. https://www.springer.com/gp/partners
+  45. https://www.springernature.com/gp/librarians/agents
+  46. https://www.springer.com/gp/help
+  47. https://www.springer.com/gp/authors-editors/journal-author
+  48. https://link.springer.com/
+  49. https://link.springer.com/books/a/1
+  50. https://link.springer.com/journals/a/1
+  51. https://link.springer.com/video
+  52. https://link.springer.com/shop/springer/titles/en-eu/
+  53. https://www.springer.com/gp/help/contact
+  54. https://www.springer.com/gp/about-springer/media/press-releases
+  55. https://www.springer.com/gp/imprint/610056
+  56. https://www.springernature.com/gp/info/accessibility
+  57. https://www.springer.com/gp/privacy-policy
+  58. https://www.springernature.com/gp/legal/ccpa
+  59. https://www.springer.com/gp/standard-terms-and-conditions-of-business
+  60. https://www.springernature.com/gp
+  61. https://www.googletagmanager.com/ns.html?id=&gtm_auth=&gtm_preview=&gtm_cookies_win=x;
